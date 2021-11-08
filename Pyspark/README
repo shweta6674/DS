@@ -1,0 +1,4 @@
+# Code execution
+
+python3 pyspark_questionnumber.py no_of_cpu outputfile_name.txt
+eg- python3 pyspark_1.py 10 outputfile_1.txt
